@@ -1,10 +1,9 @@
 ## 📌 Project Description
 This repository contains annotated video datasets focusing on **competitive marathon bicycle racing**. The annotations track:
-- The **primary target athlete** (bicycle racer #23) 
+- The **primary target athlete** (bicycle racer in white) 
 - **Other competing athletes** in the frame
 - Bounding boxes (`COCO JSON`/`YOLO TXT`).
 - Keypoints (pose estimation).
-- Temporal labels (action start/end times).
   ## 🗂 Dataset Structure****
   Athletic-Movement-Annotations/
   ├── videos/  # Raw video clips (unannotated)
